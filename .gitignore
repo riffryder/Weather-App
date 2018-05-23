@@ -1,2 +1,9 @@
+## MAC OSX ##
 .DS_Store
+
+## NPM ##
 node_modules
+
+## API ##
+config/geocoding.js
+
