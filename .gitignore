@@ -7,3 +7,5 @@ node_modules
 ## API ##
 config/api.js
 
+## PLAYGROUND ##
+playground/*
